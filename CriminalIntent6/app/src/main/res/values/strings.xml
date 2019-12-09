@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+
+    <string name="crime_title_hint">请输入陋习记录的标题.</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">详细</string>
+    <string name="crime_solved_label">解决</string>
+    <string name="crime_required_police">联系警察</string>
+    <string name="called_police">已经联系警方了!</string>
+    <string name="crime_title">陋习记录标题</string>
+    <string name="crime_date">陋习记录日期</string>
+    <string name="crime_solved_desc">该陋习已被解决</string>
+
+    <string name="to_first">第一页</string>
+    <string name="to_last">末一页</string>
+
+    <string name="date_picker_title">陋习记录日期:</string>
+    <string name="time_picker_title">陋习记录时间:</string>
+    <string name="new_crime">新建记录</string>
+    <string name="show_subtitle">显示子标题</string>
+    <string name="hide_subtitle">隐藏子标题</string>
+    <string name="subtitle_format">%1$d 条记录</string>
+    <string name="zero_crime_list">no crime</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+
+    <string name="delete_current">删除当前记录</string>
+
+    <string name="no_crime">没有crime记录可以显示</string>
+</resources>
